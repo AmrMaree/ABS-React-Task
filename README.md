@@ -30,13 +30,6 @@ npm install
 npm run dev
 ```
 
-4️⃣ **Build for production**
-
-```bash
-npm run build
-npm run preview
-```
-
 ---
 
 ## ⚙️ Available Scripts
@@ -45,7 +38,6 @@ npm run preview
 | ----------------- | ------------------------------------ |
 | `npm run dev`     | Start dev server at `localhost:5173` |
 | `npm run build`   | Build production files               |
-| `npm run preview` | Preview production build             |
 
 ---
 
@@ -75,5 +67,4 @@ npm run preview
 ✅ react-hot-toast
 
 ---
-
-If you want — I can also generate this as a `.md` file so you can directly copy! Would you like me to do that? 🚀
+🚀
