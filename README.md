@@ -1,12 +1,3 @@
-Here’s a complete example `README.md` you can use for your project — it includes:
-
-✅ Setup instructions
-✅ Available scripts
-✅ API endpoint documentation
-✅ Environment variables
-
----
-
 # 📝 CollabNotes — Notes App
 
 CollabNotes is a full-stack collaborative note-taking app built with:
